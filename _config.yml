@@ -6,4 +6,4 @@ author:
 description: "Assignment 1 Project"
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
