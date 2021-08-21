@@ -1,1 +1,9 @@
+# Site settings
+title: Amber's World Travel Guide
+author:
+  name: Amber Atcheson
+  email: Amber.H.Atcheson@student.uts.edu.au
+description: "Assignment 1 Project"
+
+# Build settings
 theme: jekyll-theme-cayman
